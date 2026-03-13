@@ -1,6 +1,3 @@
-# devops-learning-journey
-My 90-day journey learning DevOps, Cloud and Infrastructure Automation
-# DevOps Learning Journey
 
 This repository documents my 90-day journey learning DevOps, Cloud and Infrastructure Automation.
 
